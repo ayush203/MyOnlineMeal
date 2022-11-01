@@ -69,7 +69,7 @@ html{
 #home::before{
     content: "";
     position: absolute;
-    background:url('./Bg1.jpg') no-repeat center center/cover;
+    background:url('./Bg3.jpg') no-repeat center center/cover;
     height: 440px;
     top: 0px;
     left: 0px;
